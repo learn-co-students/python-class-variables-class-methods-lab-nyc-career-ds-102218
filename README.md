@@ -99,7 +99,7 @@ Driver.fleet_models_count()
 ```python
 Driver.percent_of_fleet("Toyota") 
 # returns the percentage of Toyotas in the fleet
-# example: 45.857%
+# example: 42.857%
 ```
 
 > **Hint:** for the last method, `percent_of_fleet`, you will need to return a string that represents the percentage  as a float with the percent sign at the end of the string. We can use the `float()` and `str()` functions to accomplish this as well as concating strings to add the `%` sign:
